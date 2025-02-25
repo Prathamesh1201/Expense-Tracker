@@ -21,5 +21,3 @@ It allows users to **add, view, and delete expenses** while saving the data usin
 3. View and manage expenses in the table.
 4. Data remains saved in local storage even after refresh.
 
-## Demo 🎥
-[Live Demo](#) – (Add GitHub Pages link after deployment)
